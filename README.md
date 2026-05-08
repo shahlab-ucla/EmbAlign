@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1233216320.svg)](https://doi.org/10.5281/zenodo.20089240)
+
 EmbAlign is a fully automated 3D registration framework that determines lineage identities from single embryo snapshots of nuclei positions in C. elegans. Anchoring searches on observed cell counts, EmbAlign retrieves reference templates from a spatiotemporal atlas and refines assignments using an iterative Sinkhorn alignment procedure. This approach robustly handles positional variability and arbitrary orientations in both live and fixed uncompressed embryos.
 
 The notebooks_final directory contains:
